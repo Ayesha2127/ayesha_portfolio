@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 export default function Projects (){
     return(
-        <div className="font-bold text-center uppercase text-4xl py-7 bg-black h-screen text-[#EFBC57] flex-wrap">
+        <div className="font-bold w-full text-center md:bg-black uppercase text-4xl py-7 bg-black h-full text-[#EFBC57] flex-wrap">
             my projects
             
 
