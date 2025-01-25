@@ -19,3 +19,13 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+h1 {
+  font-family : Lobster;
+}
+
+p {
+  font-family : Playfair_Display;
+}
+
+
